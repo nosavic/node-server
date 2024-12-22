@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1690200000001,
+    "name": "Laptop",
+    "price": 1000,
+    "size": "medium"
+  },
+  {
+    "id": 1690200000002,
+    "name": "Smartphone",
+    "price": 500,
+    "size": "small"
+  },
+  {
+    "id": 1690200000003,
+    "name": "Television",
+    "price": 1500,
+    "size": "large"
+  },
+  {
+    "id": 1690200000004,
+    "name": "Tablet",
+    "price": 300,
+    "size": "medium"
+  },
+  {
+    "id": 1690200000005,
+    "name": "Headphones",
+    "price": 100,
+    "size": "small"
+  }
+]
